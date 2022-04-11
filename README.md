@@ -2,7 +2,7 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p> -->
 
-<a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
+<a href="https://github-readme-stats.vercel.app/api?username=MarkLewis&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m0rp43us&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <!-- <a href="https://github.com/m0rp43us">
@@ -25,7 +25,6 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
